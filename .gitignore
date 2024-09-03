@@ -1,0 +1,6 @@
+.env
+venv
+db.sqlite3
+.idea
+cache/
+*/migrations/0*.py
